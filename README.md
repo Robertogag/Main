@@ -1,4 +1,4 @@
-# <span style="color:#FF0000:front-weight:bold">Juan Roberto García Gómez</span>
+# <span style="color:#FF0000;front-weight:bold">Juan Roberto García Gómez</span>
 
 
 # !Hola! 👽
