@@ -9,7 +9,6 @@ Mi nombre es Juan Roberto García Gómez y soy estudiante del bootcamp de Keepco
 
 •Correo electrónico: roberto.gag117@gmail.com
 
-•Teléfono celular: +52 4443295151
 
 ## LinkedIn
 
