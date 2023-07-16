@@ -1,0 +1,5 @@
+Mi dashboard en Tableau está diseñado para ayudar a las personas que desean rentar sus propiedades en Airbnb en Madrid. El objetivo principal es proporcionar información sobre el promedio de precios en las distintas zonas de Madrid y obtener detalles sobre las propiedades según el tipo de habitación.
+
+El dashboard cuenta con un mapa interactivo que sirve como guía para explorar la información. Se pueden aplicar filtros por zona, precio y tipo de habitación para personalizar los resultados según las necesidades del usuario.
+
+Al seleccionar una zona completa o individual en el mapa, se abrirán opciones adicionales que brindan un detalle más específico sobre las propiedades en esa ubicación en particular. Esto puede incluir datos como el promedio de precios por tipo de habitación, la disponibilidad de propiedades, las comodidades ofrecidas, las calificaciones de los huéspedes y cualquier otra información relevante que sea útil para los usuarios al tomar decisiones sobre sus propiedades en Airbnb.
