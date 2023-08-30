@@ -1,8 +1,6 @@
-Mi nombre es Juan Roberto García Gómez y soy estudiante del bootcamp de Keepcoding en "Big Data, Inteligencia Artificial & Machine Learning, Edición XII".
+# ¡Hola! 👽
 
-<div align="center">
-  <img src="url_de_la_imagen_del_programador" alt="Programador" width="300"/>
-</div>
+Mi nombre es Juan Roberto García Gómez y soy estudiante del bootcamp de Keepcoding en "Big Data, Inteligencia Artificial & Machine Learning, Edición XII".
 
 ## Información de contacto
 - Correo electrónico: roberto.gag117@gmail.com
