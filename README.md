@@ -16,10 +16,6 @@ Estoy trabajando y aprendiendo con una variedad de herramientas y tecnologías p
 [<img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="100" height="60">](https://www.postgresql.org/)
 [<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="100" height="60">](https://www.mysql.com/)
 
-
-## Información de Contacto 📧
-Puedes contactarme por correo electrónico en: roberto.gag117@gmail.com
-
 ## Redes Sociales 🌐
 ¡Conéctate conmigo en LinkedIn para mantenernos en contacto y aprender juntos!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Roberto%20Garc%C3%ADa%20G%C3%B3mez-blue)](https://www.linkedin.com/in/juan-roberto-garc%C3%ADa-g%C3%B3mez-41880b200/)
